@@ -1,0 +1,3 @@
+The Task Management App is a simple Python-based application used to manage daily tasks efficiently. It allows users to add, remove, view, and prioritize tasks. The system stores task information in a CSV file and uses a machine learning model (Naive Bayes) to recommend tasks based on their priority.
+
+The application is designed for beginners to understand how Python, data handling, and basic machine learning can be combined to build a practical program.
